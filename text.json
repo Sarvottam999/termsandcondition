@@ -1,0 +1,49 @@
+{
+  "version": "2.1",
+  "lastUpdated": "June 4, 2025",
+  "announcement": "🎉 New features added! Check out our updated privacy section.",
+  "sections": [
+    {
+      "title": "Welcome to MyCompanion AI",
+      "content": "Please read these Terms and Conditions carefully before using the MyCompanion AI mobile application operated by LLF Tech Solutions.",
+      "type": "info"
+    },
+    {
+      "title": "1. Eligibility",
+      "content": "You must be at least 13 years old to use this Service. By using the app, you confirm that you meet the eligibility requirements.",
+      "type": "important"
+    },
+    {
+      "title": "2. Account Registration",
+      "content": "To access certain features, you may be required to create an account. You agree to provide accurate, current, and complete information and to keep your account information updated.",
+      "type": "normal"
+    },
+    {
+      "title": "3. Use of the Service",
+      "content": "You agree not to misuse the Service or assist anyone else in doing so. Misuse includes:",
+      "type": "warning",
+      "bulletPoints": [
+        "Uploading malicious software or viruses",
+        "Attempting unauthorized access to our servers or data",
+        "Harassing or threatening other users",
+        "Violating any applicable laws or regulations",
+        "Creating fake accounts or impersonating others"
+      ]
+    },
+    {
+      "title": "4. Privacy & Data Protection",
+      "content": "We take your privacy seriously. All data collected is handled according to our Privacy Policy and applicable data protection laws.",
+      "type": "info"
+    },
+    {
+      "title": "5. Limitation of Liability",
+      "content": "In no event shall LLF Tech Solutions be liable for any indirect, incidental, special, consequential, or punitive damages.",
+      "type": "important"
+    },
+    {
+      "title": "6. Contact Information",
+      "content": "If you have any questions about these Terms & Conditions, please contact us at support@llftech.com or through our in-app support feature.",
+      "type": "normal"
+    }
+  ]
+}
