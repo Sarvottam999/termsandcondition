@@ -1,0 +1,62 @@
+{
+    "sections": [
+      {
+        "title": "What is this app for?",
+        "content": "The LLF Machine Inspection app helps engineers and workers manage, perform, and track machine inspections, ensuring no inspection is missed and all machine data stays organized.",
+        "type": "info"
+      },
+      {
+        "title": "Who can use this app?",
+        "content": "There are two user roles in the app: Engineers and Workers.",
+        "type": "normal",
+        "bulletPoints": [
+          "Engineers: Assign machines, schedule inspections, and monitor reports.",
+          "Workers: View assigned machines and submit inspection reports."
+        ]
+      },
+      {
+        "title": "How do I reset my password?",
+        "content": "On the login screen, tap 'Forgot Password?' and follow the instructions sent to your registered email.",
+        "type": "normal"
+      },
+      {
+        "title": "How do I submit an inspection?",
+        "content": "Follow these steps to submit an inspection:",
+        "type": "normal",
+        "bulletPoints": [
+          "Go to your Dashboard.",
+          "Tap the machine scheduled for today or pending.",
+          "Fill out the checklist and submit."
+        ]
+      },
+      {
+        "title": "What do 'Pending' and 'Escalated' mean?",
+        "content": "Machine inspection statuses indicate the following:",
+        "type": "warning",
+        "bulletPoints": [
+          "Pending: Missed inspection that needs to be completed as soon as possible.",
+          "Escalated: An issue was reported and requires engineer intervention."
+        ]
+      },
+      {
+        "title": "Can I use the app offline?",
+        "content": "Currently, an internet connection is required to sync your data with our servers.",
+        "type": "important"
+      },
+      {
+        "title": "Is my data secure?",
+        "content": "Yes, your data is protected with secure servers and encrypted communications. For more details, review our Privacy Policy.",
+        "type": "info"
+      },
+      {
+        "title": "How do I contact support?",
+        "content": "If you need assistance, reach out to us using the contact options below.",
+        "type": "normal",
+        "bulletPoints": [
+          "Email: support@llfbirla.com",
+          "Telegram: https://t.me/LLFSupportBot"
+        ]
+      }
+    ]
+  }
+  
