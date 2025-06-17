@@ -54,7 +54,8 @@
         "type": "normal",
         "bulletPoints": [
           "Email: support@llfbirla.com",
-          "Telegram: https://t.me/LLFSupportBot"
+          "Telegram: https://t.me/LLFSupportBot",
+          "type: faq"
         ]
       }
     ]

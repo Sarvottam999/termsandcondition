@@ -27,7 +27,9 @@
         "Attempting unauthorized access to our servers or data",
         "Harassing or threatening other users",
         "Violating any applicable laws or regulations",
-        "Creating fake accounts or impersonating others"
+        "Creating fake accounts or impersonating others",
+        "type: Terms"
+
       ]
     },
     {
