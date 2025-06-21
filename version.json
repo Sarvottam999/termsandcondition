@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "build_number": 1,
     "download_url": "https://github.com/Sarvottam999/llf_frontend/releases/download/v1.0.0/app-release.apk",
-    "force_update": true,
+    "force_update": false,
     "release_notes": "Initial release."
   }
   
